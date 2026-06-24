@@ -1,14 +1,4 @@
-# Enterprise IT Infrastructure & Active Directory Lab — Day 2
 
-This repository documents the implementation of **Day 2: Secondary Domain Controller (DC_Server_Additional), DHCP Server Configuration, and Client Domain Joins**.
-
----
-
-## 🛠️ Project Overview & Screenshots
-
-Below is the step-by-step implementation breakdown of Day 2, featuring responsive grid layouts and personal technical documentation in both English and Turkish.
-
----
 
 1. Secondary Domain Controller (DC_Server_Additional) Deployment / Yedek Domain Controller Kurulumu
 
