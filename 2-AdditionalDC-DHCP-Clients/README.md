@@ -3,6 +3,7 @@
 1. Secondary Domain Controller (DC_Server_Additional) Deployment / Yedek Domain Controller Kurulumu
 
 Aşağıdaki görseller sırasıyla: Üstte tek satırda DC_Server_Additional sanal makine özelliklerini; altta yan yana ise statik IP yapılandırmasını ve Active Directory replikasyon doğrulamasını göstermektedir.
+
 The images below display: On top, DC_Server_Additional VM hardware specifications; below side-by-side, static IP configuration and Active Directory replication verification.
 
 <table width="100%" style="border-collapse: collapse; border: none;">
@@ -30,6 +31,7 @@ The images below display: On top, DC_Server_Additional VM hardware specification
 2. DHCP Server Configuration & Scope Management / DHCP Sunucu ve Scope Yapılandırması
 
 Aşağıdaki görseller sırasıyla: Üstte tek satırda DHCP_Server sanal makine özelliklerini; altta yan yana ise statik IP yapılandırmasını ve aktif DHCP Scope yapısını göstermektedir.
+
 The images below display: On top, DHCP_Server VM hardware specifications; below side-by-side, static IP configuration and the active DHCP Scope architecture.
 
 <table width="100%" style="border-collapse: collapse; border: none;">
@@ -57,6 +59,7 @@ The images below display: On top, DHCP_Server VM hardware specifications; below 
 3. CLIENT01 Windows 10 Pro Installation & Domain Join / CLIENT01 Kurulumu ve Domaine Alınması
 
 Aşağıdaki görseller sırasıyla: Üstte tek satırda CLIENT01 sanal makine özelliklerini; altta yan yana ise DHCP'den aldığı IP bilgisini ve sirket.local domainine katıldığının kanıtını göstermektedir.
+
 The images below display: On top, CLIENT01 VM hardware specifications; below side-by-side, dynamic IP lease from DHCP and proof of successful join to sirket.local domain.
 
 <table width="100%" style="border-collapse: collapse; border: none;">
@@ -84,6 +87,7 @@ The images below display: On top, CLIENT01 VM hardware specifications; below sid
 4. CLIENT02 Windows 10 Pro Cloning & Domain Join / CLIENT02 Klonlama ve Domaine Alınması
 
 Aşağıdaki görseller sırasıyla: Üstte tek satırda CLIENT02 sanal makine özelliklerini; altta yan yana ise DHCP'den aldığı benzersiz IP bilgisini ve sirket.local domainine katıldığının kanıtını göstermektedir.
+
 The images below display: On top, CLIENT02 VM hardware specifications; below side-by-side, unique dynamic IP lease from DHCP and proof of successful join to sirket.local domain.
 
 <table width="100%" style="border-collapse: collapse; border: none;">
